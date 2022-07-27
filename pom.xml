@@ -26,7 +26,7 @@
     <dependency>
       <groupId>com.github.github-yangs</groupId>
       <artifactId>commons-spring-boot-starter</artifactId>
-      <version>v0.8.0</version>
+      <version>v0.8.1</version>
     </dependency>
 
     <!--MyBatis Plus 依赖-->
